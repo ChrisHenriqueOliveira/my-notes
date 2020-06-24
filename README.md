@@ -1,3 +1,2 @@
-# my-bets - under development
-System to automatically calculate results on federal bets ('Lotofácil' for now) (https://www.loteriasonline.caixa.gov.br/silce-web/#/home)
-
+# my-notes
+System to manage a local notepad with markdown support
