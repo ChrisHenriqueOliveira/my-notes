@@ -30,7 +30,8 @@ Project developed as part of my personal project "My Study Projects" which aims 
 4. Prettier;
 5. Router DOM;
 6. Styled Components;
-7. [React-Markdown](https://github.com/rexxars/react-markdown)
+7. Local Storage
+8. [React-Markdown](https://github.com/rexxars/react-markdown)
 
 ## 🚀 Instalação e execução / Installation and execution
 :brazil:
