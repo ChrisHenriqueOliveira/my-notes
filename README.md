@@ -15,7 +15,7 @@
 :brazil:
 Acesse [https://mylocalnotes.netlify.app/](https://mylocalnotes.netlify.app/) para testar a versão funcional do sistema.
 
-Projeto desenvolvido como parte do meu projeto pessoal "My Study Projects" que possui como intuito ajuda-lo a se organizar utilizando anotações de forma local em seu dispositivo. Você pode adicionar, remover e editar notas, também contando com suporte para renderizações à linguagem Markdown.
+Projeto desenvolvido como parte do meu projeto pessoal ["My Study Projects"](https://github.com/ChrisHenriqueOliveira/my-study-projects) que possui como intuito ajuda-lo a se organizar utilizando anotações de forma local em seu dispositivo. Você pode adicionar, remover e editar notas, também contando com suporte para renderizações à linguagem Markdown.
 
 :us:
 Access [https://mylocalnotes.netlify.app/](https://mylocalnotes.netlify.app/) to test the functional version of the system.
