@@ -28,10 +28,9 @@ Project developed as part of my personal project "My Study Projects" which aims 
 2. Typescript;
 3. Eslint;
 4. Prettier;
-5. Router DOM;
-6. Styled Components;
-7. Local Storage
-8. [React-Markdown](https://github.com/rexxars/react-markdown)
+5. Styled Components;
+6. Local Storage
+7. [React-Markdown](https://github.com/rexxars/react-markdown)
 
 ## 🚀 Instalação e execução / Installation and execution
 :brazil:
